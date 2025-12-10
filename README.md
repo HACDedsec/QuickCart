@@ -28,7 +28,7 @@ This repo is **frontend only** – contributors can improve the design, add new 
 2. Install dependencies
 
     ```bash
-    npm install
+    npm install --legacy-peer-deps
     ```
 
 3. Run locally
